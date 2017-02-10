@@ -35,7 +35,7 @@ Clone the repository:
 
 Navigate to `Angular2-Basic-Project` directory:
 
-> cd angular2-typescript-gulp
+> cd Angular2-Basic-Project
 
 #### 3. Installing dependencies
 
