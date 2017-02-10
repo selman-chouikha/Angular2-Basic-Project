@@ -33,7 +33,7 @@ Clone the repository:
 
 > git clone https://github.com/selman-chouikha/Angular2-Basic-Project.git
 
-Navigate to `angular2-typescript-gulp` directory:
+Navigate to `Angular2-Basic-Project` directory:
 
 > cd angular2-typescript-gulp
 
